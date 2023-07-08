@@ -2,8 +2,8 @@
 This orginization is mainly private for Tundra Development to store its code it makes for its customers and for themself.
 
 Usefull Links:
-. https://tundradev.xyz
-. https://tundradev.xyz/discord
+1. https://tundradev.xyz
+2. https://tundradev.xyz/discord
 <!--
 
 **Here are some ideas to get you started:**
