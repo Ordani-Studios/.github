@@ -1,9 +1,9 @@
 ## Hi there 👋
-This orginization is mainly private for Tundra Development to store its code it makes for its customers and for themself.
+This orginization is mainly private for Stratos Development to store its code it makes for its customers and for themself.
 
 Usefull Links:
-1. https://tundradev.xyz
-2. https://tundradev.xyz/discord
+1. https://stratosdev.xyz
+2. https://stratosdev.xyz/discord
 <!--
 
 **Here are some ideas to get you started:**
