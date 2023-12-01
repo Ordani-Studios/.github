@@ -1,16 +1,10 @@
+<img src="https://stratosdev.xyz/wp-content/uploads/2023/11/Stratos_t-150x150.png" alt="drawing" height="110" width="110" style="display: block; margin-left: auto;margin-right: auto;"/>
+
 ## Hi there 👋
-This orginization is mainly private for Stratos Development to store its code it makes for its customers and for themself.
 
-Usefull Links:
-1. https://stratosdev.xyz
-2. https://stratosdev.xyz/discord
-<!--
+Our GitHub organization functions as a strategic repository, systematically housing proprietary code for our internal projects and bespoke solutions crafted exclusively for our esteemed clientele. This structured approach ensures the organized management of our in-house innovations and client-specific deliverables, exemplifying our commitment to excellence in every facet of our business engagements.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Usefull Links                             |
+|-------------------------------------------|
+|[Main Website](https://stratosdev.xyz)     |
+|[Discord](https://stratosdev.xyz/discord)  |
