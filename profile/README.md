@@ -1,4 +1,4 @@
-<img src="https://cdn.stratosdev.xyz/StratosV2.png" alt="drawing" height="110" width="110" style="display: block; margin-left: auto;margin-right: auto;"/>
+<img src="https://cdn.stratosdev.xyz/StratosV2_t.png" alt="drawing" height="110" width="110" style="display: block; margin-left: auto;margin-right: auto;"/>
 
 ## Hi there 👋
 
