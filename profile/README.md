@@ -1,10 +1,24 @@
-<img src="https://cdn.stratostech.xyz/images/branding/Stratos.png" alt="drawing" height="110" width="110" style="display: block; margin-left: auto;margin-right: auto;"/>
+<img src="https://cdn.ordanistudio.com/images/branding/ORDANI_TEXT_BLANK.png" alt="Ordani Studio Logo" height="110" width="110" style="display:block; margin:auto;"/>
 
-## Hi there 👋
+# 👋 Welcome to Ordani Studio on GitHub  
 
-Our GitHub organization functions as a strategic repository, systematically housing proprietary code for our internal projects and bespoke solutions crafted exclusively for our esteemed clientele. This structured approach ensures the organized management of our in-house innovations and client-specific deliverables, exemplifying our commitment to excellence in every facet of our business engagements.
+Our GitHub organization serves as the central hub for **proprietary code, internal tools, and client solutions**.  
+We maintain a structured and secure approach to project management, ensuring:  
 
-| Usefull Links                             |
-|-------------------------------------------|
-|[Main Website](https://stratosdev.xyz)     |
-|[Discord](https://stratosdev.xyz/discord)  |
+- 🔒 Protection of in-house innovations  
+- 🛠️ Organized collaboration across teams  
+- 🚀 Tailored solutions for our clients  
+- 🌐 A commitment to excellence in every deliverable  
+
+---
+
+## 🔗 Useful Links  
+
+| Resource      | Link |
+|---------------|------|
+| 🌍 Main Website | [ordanistudio.com](https://ordanistudio.com) |
+| 💬 Join Our Community | [Discord](https://ordanistudio.com/~/discord) |
+
+---
+
+✨ Whether you’re exploring our work, contributing internally, or collaborating on client projects, you’ll find everything structured for clarity and growth.
